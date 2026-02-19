@@ -1,3 +1,7 @@
 {
-  "projectLead": "michael"
+  "projectLead": "michael",
+  "name": "hello-world",
+  "description": "Hello World static site",
+  "status": "active",
+  "repo": "devopsSiliconNet/hello-world"
 }

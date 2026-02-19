@@ -25,3 +25,11 @@ yarn-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+-e 
+# Amy Dashboard
+.activity.db
+.activity.db-shm
+.activity.db-wal
+.crons.json
+.screenshots/
+.qa-temp/
