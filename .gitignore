@@ -33,3 +33,6 @@ next-env.d.ts
 .crons.json
 .screenshots/
 .qa-temp/
+# Amy Dashboard
+node_modules/
+.env
