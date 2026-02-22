@@ -4,5 +4,14 @@
   "description": "Hello World static site",
   "status": "active",
   "repo": "devopsSiliconNet/hello-world",
-  "checks": []
+  "checks": [],
+  "tags": [
+    "node.js",
+    "typescript",
+    "next.js",
+    "tailwind",
+    "github-actions",
+    "mobile",
+    "react"
+  ]
 }

@@ -36,3 +36,6 @@ next-env.d.ts
 # Amy Dashboard
 node_modules/
 .env
+# Amy Dashboard
+.branding/
+.branding.json
